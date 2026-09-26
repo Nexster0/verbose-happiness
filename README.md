@@ -8,3 +8,5 @@ Task PDFs only (no solutions) from https://olympiads.bc-pf.org/chemistry.
 - `chemistry/kaz_sbory/<session>/` - Kazakhstan team training camps (all sessions on the site, 2016-2018)
 
 Re-download with `python3 download.py`.
+
+Разбор задач 10–11 класса: [analysis_10_11.md](analysis_10_11.md)
