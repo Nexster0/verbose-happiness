@@ -10,3 +10,4 @@ Task PDFs only (no solutions) from https://olympiads.bc-pf.org/chemistry.
 Re-download with `python3 download.py`.
 
 Разбор задач 10–11 класса: [analysis_10_11.md](analysis_10_11.md)
+Конспект простым языком: [konspekt.md](konspekt.md)
